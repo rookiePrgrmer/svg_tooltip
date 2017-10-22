@@ -1,0 +1,14 @@
+h1 {color: #0d57dc;font-weight: normal;}
+
+.sound {
+    width: 600px;
+    margin: 50px auto;
+    outline: 1px solid red;
+    font-size: 0;
+}
+
+.sound .sound-content {
+    width: 300px;
+    display: inline-block;
+    font-size: 18px;
+}
